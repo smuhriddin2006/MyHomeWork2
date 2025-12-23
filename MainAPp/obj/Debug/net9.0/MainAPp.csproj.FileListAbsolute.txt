@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\C#\Month1\Week3\MainAPp\bin\Debug\net9.0\MainAPp.exe
+C:\Users\user\Desktop\C#\Month1\Week3\MainAPp\bin\Debug\net9.0\MainAPp.deps.json
+C:\Users\user\Desktop\C#\Month1\Week3\MainAPp\bin\Debug\net9.0\MainAPp.runtimeconfig.json
+C:\Users\user\Desktop\C#\Month1\Week3\MainAPp\bin\Debug\net9.0\MainAPp.dll
+C:\Users\user\Desktop\C#\Month1\Week3\MainAPp\bin\Debug\net9.0\MainAPp.pdb
+C:\Users\user\Desktop\C#\Month1\Week3\MainAPp\obj\Debug\net9.0\MainAPp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\C#\Month1\Week3\MainAPp\obj\Debug\net9.0\MainAPp.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C#\Month1\Week3\MainAPp\obj\Debug\net9.0\MainAPp.AssemblyInfo.cs
+C:\Users\user\Desktop\C#\Month1\Week3\MainAPp\obj\Debug\net9.0\MainAPp.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#\Month1\Week3\MainAPp\obj\Debug\net9.0\MainAPp.dll
+C:\Users\user\Desktop\C#\Month1\Week3\MainAPp\obj\Debug\net9.0\refint\MainAPp.dll
+C:\Users\user\Desktop\C#\Month1\Week3\MainAPp\obj\Debug\net9.0\MainAPp.pdb
+C:\Users\user\Desktop\C#\Month1\Week3\MainAPp\obj\Debug\net9.0\MainAPp.genruntimeconfig.cache
+C:\Users\user\Desktop\C#\Month1\Week3\MainAPp\obj\Debug\net9.0\ref\MainAPp.dll

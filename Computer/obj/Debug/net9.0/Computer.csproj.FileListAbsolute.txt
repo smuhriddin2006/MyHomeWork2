@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\C#\Month1\Week3\Computer\bin\Debug\net9.0\Computer.exe
+C:\Users\user\Desktop\C#\Month1\Week3\Computer\bin\Debug\net9.0\Computer.deps.json
+C:\Users\user\Desktop\C#\Month1\Week3\Computer\bin\Debug\net9.0\Computer.runtimeconfig.json
+C:\Users\user\Desktop\C#\Month1\Week3\Computer\bin\Debug\net9.0\Computer.dll
+C:\Users\user\Desktop\C#\Month1\Week3\Computer\bin\Debug\net9.0\Computer.pdb
+C:\Users\user\Desktop\C#\Month1\Week3\Computer\obj\Debug\net9.0\Computer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\C#\Month1\Week3\Computer\obj\Debug\net9.0\Computer.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C#\Month1\Week3\Computer\obj\Debug\net9.0\Computer.AssemblyInfo.cs
+C:\Users\user\Desktop\C#\Month1\Week3\Computer\obj\Debug\net9.0\Computer.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#\Month1\Week3\Computer\obj\Debug\net9.0\Computer.dll
+C:\Users\user\Desktop\C#\Month1\Week3\Computer\obj\Debug\net9.0\refint\Computer.dll
+C:\Users\user\Desktop\C#\Month1\Week3\Computer\obj\Debug\net9.0\Computer.pdb
+C:\Users\user\Desktop\C#\Month1\Week3\Computer\obj\Debug\net9.0\Computer.genruntimeconfig.cache
+C:\Users\user\Desktop\C#\Month1\Week3\Computer\obj\Debug\net9.0\ref\Computer.dll
